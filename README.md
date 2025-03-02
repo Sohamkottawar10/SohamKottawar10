@@ -1,5 +1,9 @@
 ## Hi there 👋 My Name is Soham Kottawar!!
 A 3rd year CSE Student from IIT KHARAGPUR, INDIA
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=SohamKottawar10)
+
+
 <!--
 **Sohamkottawar10/SohamKottawar10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
